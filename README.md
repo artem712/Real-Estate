@@ -1,8 +1,7 @@
 
   
 
-
-  # Washburn Real Estate (Zillow Clone)
+  # Green Real Estate
 
     Table of Contents:
   
@@ -18,15 +17,10 @@
   
   
 
-  
-  
-Deployed with Heroku:
-   
-https://codydevloop-washburn-realestat.herokuapp.com/
 
 ## Description:
 ---
-1. This app was created with focus on the MERN technology stack, and Auth0 authentication.
+1. This app was created with focus on the MERN technology stack, and OAuth authentication.
 
 2. It is designed to be used by independent real estate agents.
 
@@ -68,9 +62,6 @@ https://codydevloop-washburn-realestat.herokuapp.com/
     ```
     npm start
   
-## Contributing:
-  
-  Cody Hoover, Alex Poshivailo, Dallas Washburn, Azucena Gonzalez
 ## Usage
 1. marking a property as favorite will initiate an API call.  After a 1-3 second delay, a camera icon will display and link to a modal containing a carousel of the photo gallery, and any property description details.
 

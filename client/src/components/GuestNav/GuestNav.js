@@ -32,7 +32,7 @@ render(props) {
                 <MDBNavItem>
                 <NavLink className="" to="/"><img className="logo" alt="" src="./images/wr.png"  height="75px"/>
                 <br></br>
-                <h3 className=" text-dark pl-4">Washburn Real Estate</h3>
+                <h3 className=" text-dark pl-4">Real Estate</h3>
                 </NavLink>
                 </MDBNavItem>
           </MDBNavbarNav>

@@ -55,7 +55,7 @@ render() {
           </MDBNavbarNav>
           <MDBNavbarNav center>
                 <MDBNavItem>
-                <NavLink to="/"><h1>ADMIN AREA - WASHBURN</h1></NavLink>
+                <NavLink to="/"><h1>ADMIN AREA - GREEN</h1></NavLink>
                 </MDBNavItem>
           </MDBNavbarNav>
           <MDBNavbarNav right>

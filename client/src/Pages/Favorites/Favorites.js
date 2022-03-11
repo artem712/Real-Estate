@@ -53,7 +53,7 @@ class Favorites extends Component {
             <>
                 <Nav />
                 <div class="jumbotron">
-                    <h2 class="display-4 text-center">Welcome Washburn Real Estate {this.props.user_email} We are excited to be working with you!</h2>
+                    <h2 class="display-4 text-center">Welcome Green Real Estate {this.props.user_email} We are excited to be working with you!</h2>
                     {/* <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
                     <hr class="my-4" />
                     <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
